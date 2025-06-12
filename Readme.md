@@ -19,7 +19,8 @@ Perfect for beginners who want to learn C++ basics like struct, vector, function
    cd todo-list-cpp
 2. Compile the code using g++:
    ```bash
-   g++ main.cpp -o todo
+   g++ main.cpp -o todo_app -std=c++11
+
 3. Run the program:
    ```bash
    ./todo
